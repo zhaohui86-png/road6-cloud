@@ -1,0 +1,42 @@
+name: road6-cloud-scan
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: road6-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scan news and prices
+        env:
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+        run: python cloud_monitor.py
+
+      - name: Commit state back
+        run: |
+          git config user.name "road6-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "no state change"
+          else
+            git commit -m "state: auto update [skip ci]"
+            git push
+          fi
