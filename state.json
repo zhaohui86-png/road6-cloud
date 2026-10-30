@@ -559,7 +559,7 @@
    "zone": false
   },
   "hk00941": {
-   "zone": true
+   "zone": false
   },
   "hk03998": {
    "zone": false
@@ -568,7 +568,7 @@
    "zone": false
   },
   "hk02020": {
-   "zone": true
+   "zone": false
   }
  },
  "digest_date": "2026-10-29",
