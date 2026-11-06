@@ -408,8 +408,6 @@
    "https://hk.finance.yahoo.com/news/%E6%B8%AF%E8%82%A1-%E6%81%92%E6%8C%87%E5%8D%8A%E6%97%A5%E8%B7%8C263%E9%BB%9E-%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B%E7%B8%BE%E5%BE%8C%E5%8D%87%E8%BF%913-%E8%81%AF%E6%83%B3%E8%B7%8C%E8%BF%916-043823754.html?.tsrc=rss"
   ],
   "hk00941": [
-   "https://hk.finance.yahoo.com/news/%E8%8B%B1%E7%89%B9%E7%88%BE%E7%9B%A4%E4%B8%AD%E5%B4%A9%E8%B7%8C30-%E6%81%90%E5%AF%AB%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%85%98-%E5%A4%A9-%E5%85%A8%E7%90%83%E6%99%B6%E7%89%87%E8%82%A1%E8%B7%9F%E8%91%97%E6%AE%BA-173003764.html?.tsrc=rss",
-   "https://hk.finance.yahoo.com/news/%E7%AC%AC%E4%B8%89%E5%AD%A3%E8%B2%A1%E5%A0%B1%E5%AD%A3%E4%BE%86%E8%87%A8-b-riley%E9%BB%9E%E5%90%8D%E4%BA%94%E5%A4%A7adtech%E5%80%BC%E5%BE%97%E9%97%9C%E6%B3%A8%E8%82%A1%E7%A5%A8-162346808.html?.tsrc=rss",
    "https://hk.finance.yahoo.com/news/starz%E8%82%A1%E5%83%B9%E5%A4%A7%E6%BC%B2-raymond-james%E4%B8%8A%E8%AA%BF%E8%A9%95%E7%B4%9A%E8%87%B3%E5%BC%B7%E5%8A%9B%E8%B2%B7%E5%85%A5-152905607.html?.tsrc=rss",
    "https://hk.finance.yahoo.com/news/google%E6%9A%B4%E8%B7%8C%E5%BE%8C%E8%83%BD%E6%92%BF%E4%BE%BF%E5%AE%9C-%E4%BA%A4%E6%98%93%E5%93%A1%E4%B8%8D%E6%8A%BC%E5%8F%8D%E5%BD%88%E4%B9%9F%E6%83%B3%E8%B3%BA-183004465.html?.tsrc=rss",
    "https://hk.finance.yahoo.com/news/investing-com%E6%9C%AC%E9%80%B1%E9%87%8D%E9%BB%9E%E8%82%A1%E7%A5%A8-%E7%A7%91%E6%8A%80%E8%82%A1%E5%85%A8%E9%9D%A2%E5%8F%97%E6%8C%AB-185821348.html?.tsrc=rss",
@@ -607,7 +605,9 @@
    "https://hk.finance.yahoo.com/news/%E6%B8%AF%E8%82%A1-%E6%81%92%E6%8C%87%E5%8D%8A%E6%97%A5%E8%B7%8C263%E9%BB%9E-%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B%E7%B8%BE%E5%BE%8C%E5%8D%87%E8%BF%913-%E8%81%AF%E6%83%B3%E8%B7%8C%E8%BF%916-043823754.html?.tsrc=rss",
    "https://hk.finance.yahoo.com/news/%E5%97%B6%E5%93%A9%E5%97%B6%E5%93%A9-09626-hk-%E5%AE%8C%E6%88%90%E9%A8%B0%E8%A8%8A%E7%A5%A8%E6%93%9A%E8%AA%8D%E8%B3%BC%E5%8F%8A%E8%B3%BC%E5%9B%9E-041727511.html?.tsrc=rss",
    "https://hk.finance.yahoo.com/news/%E5%97%B6%E5%93%A9%E5%97%B6%E5%93%A9-09626-%E5%AE%8C%E6%88%90%E9%A8%B0%E8%A8%8A%E7%A5%A8%E6%93%9A%E8%AA%8D%E8%B3%BC%E4%BA%8B%E9%A0%85%E5%8F%8A%E5%90%8C%E6%AD%A5%E9%A8%B0%E8%A8%8A%E8%B3%BC%E5%9B%9E-041604037.html?.tsrc=rss",
-   "https://hk.finance.yahoo.com/news/%E7%84%A1%E7%B6%AB%E9%9B%86%E5%9C%98-00511-hk-%E8%88%87%E9%A8%B0%E8%A8%8A%E8%A6%96%E9%A0%BB%E9%81%94%E6%88%90%E5%90%88%E4%BD%9C-%E7%B6%93%E5%85%B8%E5%8A%87%E9%9B%86%E6%94%B9%E7%B7%A8%E6%A9%AB%E5%B1%8F%E7%9F%AD%E5%8A%87-052555544.html?.tsrc=rss"
+   "https://hk.finance.yahoo.com/news/%E7%84%A1%E7%B6%AB%E9%9B%86%E5%9C%98-00511-hk-%E8%88%87%E9%A8%B0%E8%A8%8A%E8%A6%96%E9%A0%BB%E9%81%94%E6%88%90%E5%90%88%E4%BD%9C-%E7%B6%93%E5%85%B8%E5%8A%87%E9%9B%86%E6%94%B9%E7%B7%A8%E6%A9%AB%E5%B1%8F%E7%9F%AD%E5%8A%87-052555544.html?.tsrc=rss",
+   "https://hk.finance.yahoo.com/news/%E9%87%91%E5%B1%85%E5%95%9F%E5%8B%95%E7%99%BE%E5%84%84%E5%A4%A7%E9%A6%AC%E5%BB%BA%E5%BB%A0%E8%A8%88%E7%95%AB-%E5%B0%87%E5%9C%A8%E5%8F%B0%E7%99%BC70%E5%84%84%E5%85%83cb%E7%B1%8C%E8%B3%87-063619360.html?.tsrc=rss",
+   "https://hk.finance.yahoo.com/news/%E8%8D%B7%E8%98%AD%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98%E6%93%9A%E6%82%89%E6%93%AC%E5%87%BA%E5%94%AE%E5%83%B9%E5%80%BC5%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%B2%B8%E6%AC%BE%E7%B5%84%E5%90%88-060736922.html?.tsrc=rss"
   ],
   "hk03998": [
    "https://hk.finance.yahoo.com/news/%E6%B3%A2%E5%8F%B8%E7%99%BB-03998-%E5%85%A8%E5%B9%B4%E5%BA%A6%E7%B4%94%E5%88%A939-94%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%8713-67-163218565.html?.tsrc=rss",
@@ -679,7 +679,7 @@
    "up:31.0": true
   },
   "hk00883": {
-   "zone": true
+   "zone": false
   },
   "hk00700": {
    "zone": false
@@ -697,7 +697,7 @@
    "zone": false
   }
  },
- "digest_date": "2026-11-05",
+ "digest_date": "2026-11-06",
  "digest_items": [],
  "baselined": true
 }
